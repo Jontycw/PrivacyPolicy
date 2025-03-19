@@ -1,0 +1,45 @@
+Privacy Policy for BabyMango
+
+Effective: August 8, 2024
+
+Introduction
+
+Welcome to BabyMango, a mobile application designed to provide services for parents and guardians. This Privacy Policy outlines how we handle your personal data. We are committed to protecting your privacy and ensuring the security of your personal information.
+
+Information We Collect
+
+Personal Information: When you use BabyMango, we may collect personal information such as your name, email address, and any other information you provide.
+
+Children's Information: As BabyMango is designed for managing information about children, we may also collect data related to your children, including their name and date of birth. This data is provided by you, the parent or guardian, and is used solely for the app’s functionalities.
+
+Device Information: We may collect information about the device you use to access BabyMango, such as your device model, operating system, and unique device identifiers.
+
+Usage Data: We may collect data on how you use the app, including the features you use, the time and duration of your sessions, and other interaction data.
+
+Voice Recording (if applicable): If you choose to use any voice-related features in BabyMango, such as voice commands or recordings, we may collect audio data for the purpose of processing your request. This data is used solely for improving the app's functionality and is not shared with third parties. You have the option to disable microphone access at any time in your device's settings.
+
+How We Use Your Information
+
+To Provide Services: We use your personal information to deliver the services and functionalities of BabyMango.
+
+To Improve the App: We use the information collected to improve the performance, reliability, and usability of BabyMango.
+
+Communication: We may use your email address to send you important updates or notifications related to the app.
+
+Voice-Related Features: Any voice-related data (if collected) will be used exclusively to improve features such as voice recognition or commands. We do not share this data with third parties, and you can opt out of using voice features at any time.
+
+Data Security
+
+We take data security seriously and implement reasonable measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction.
+
+Your Rights
+
+You have the right to access, update, or delete the personal information we hold about you. If you wish to exercise any of these rights, please contact us at support@babymango.app.
+
+Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page, and we will notify you of any significant changes through the app.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at support@babymango.app.
